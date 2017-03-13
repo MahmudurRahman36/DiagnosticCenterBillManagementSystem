@@ -1,0 +1,13 @@
+﻿.fieldset-1 {
+    border-color: skyblue;
+    border-radius: 5px;
+    text-align: center;
+}
+legend {
+    font-size: x-large;
+}
+.fieldset-2 {
+    display: inline-block;
+    border-color: skyblue;
+    border-radius: 5px;
+}

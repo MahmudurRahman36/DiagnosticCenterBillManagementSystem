@@ -1,0 +1,57 @@
+﻿.GridviewDiv {
+    font-size: 100%;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Arial, Helevetica, sans-serif;
+    color: #303933;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+table, tr, th {
+    text-align: center;
+}
+
+li a {
+    font-size: 100%;
+}
+
+.headerstyle {
+    color: #FFFFFF;
+    border-right-color: #abb079;
+    border-bottom-color: #abb079;
+    background-color: #df5015;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background: #999;
+}
+
+
+/** html .footer {
+    position: absolute;
+    top: expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+}*/
+
+/*label.error {
+    color: red;
+    font-weight: bold;
+    font-size: large;
+}*/
+
+.error {
+    display:block;
+    color: red;
+    font-weight:bold;
+    
+}

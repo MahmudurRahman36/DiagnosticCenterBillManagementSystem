@@ -1,0 +1,76 @@
+﻿html {
+    background: url("/images/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.startheader {
+    /*margin: auto;*/
+    text-align: center;
+    width: 100%;
+    color: white;
+    /*top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;*/
+    top: 15%;
+    position: fixed;
+}
+
+.button {
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+    .button:hover {
+        background-color: darkgrey;
+        color: black;
+        font-weight: bold;
+    }
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: small;
+}
+
+.auto-style2 {
+    font-size: 30pt;
+}
+
+.auto-style3 {
+    font-size: x-large;
+}
+
+.auto-style4 {
+    font-size: 20pt;
+}
+
+.auto-style5 {
+    width: 178px;
+    height: 27px;
+    margin-top: 0px;
+}
+
+.auto-style6 {
+    color: #FFFFFF;
+}
+
+.auto-style8 {
+    font-size: small;
+}
+
+.auto-style9 {
+    font-size: medium;
+}
